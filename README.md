@@ -20,7 +20,10 @@
 ## Content of the Scripts:
 <pre>
 │
-├── Tensors.ipynb                                 <-- Creating tensors; Accessing the values of a tensor; Manipulating the data type of a tensor; Manipulating the shape of a tensor; Applying mathematical operations to tensors
+├── Tensors.ipynb                                 <-- Creating tensors; Accessing the values of a tensor; 
+                                                      Manipulating the data type of a tensor; Manipulati-
+                                                      ng the shape of a tensor; Applying mathematical op-
+                                                      erations to tensors
 │
 ├── Variables.ipynb                               <-- Implementation of a single layer perceptron for mul-
 │                                                     ti-class classification via scikit-learn.
