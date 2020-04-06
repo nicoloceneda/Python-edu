@@ -35,15 +35,15 @@
 ├── Custom_Layer_and_Models_with_Keras_API.ipynb  <-- Adding weights; Adding losses; Serializing 
 │                                                     layers; Model class     
 │
-├── Custom Training.ipynb                         <-- Defining the model; Defining the loss fun-
-│                                                     ction; Obtaining the training data; Defin-
-│                                                     ing the training loop                     
+├── Custom Training.ipynb                         <-- Defining the model; Defining the loss func-
+│                                                     tion; Obtaining the training data; Defining
+│                                                     the training loop                     
 │
-└── Dataset API.ipynb                             <-- Creating a dataset; Iterating through a d-
-                                                      ataset; Combining two tensors into a joint 
-                                                      dataset; Shuffling the dataset, creating 
-                                                      batches and repeating; Fetching available 
-                                                      datasets from the tensorflow_datasets lib-
-                                                      rary
+└── Dataset API.ipynb                             <-- Creating a dataset; Iterating through a da-
+                                                      taset; Combining two tensors into a joint  
+                                                      dataset; Shuffling the dataset, creating b- 
+                                                      atches and repeating; Fetching available d- 
+                                                      atasets from the tensorflow_datasets libra-
+                                                      ry
 </pre>
 
