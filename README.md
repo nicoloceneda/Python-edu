@@ -20,27 +20,30 @@
 ## Content of the Scripts:
 <pre>
 │
-├── Tensors.ipynb                                 <-- Creating tensors; Accessing the values of a tensor; 
-                                                      Manipulating the data type of a tensor; Manipulati-
-                                                      ng the shape of a tensor; Applying mathematical op-
-                                                      erations to tensors
+├── Tensors.ipynb                                 <-- Creating tensors; Accessing the values of a
+│                                                     tensor; Manipulating the data type of a te-
+│                                                     nsor; Manipulating the shape of a tensor; 
+│                                                     Applying mathematical operations to tensors
 │
-├── Variables.ipynb                               <-- Implementation of a single layer perceptron for mul-
-│                                                     ti-class classification via scikit-learn.
+├── Variables.ipynb                               <-- Creating variables; Accessing the values of 
+│                                                     a variable; Modifying the values of a vari-
+│                                                     able
 │
-├── Computation_Graphs_and_Gradients.ipynb        <-- Implementation of a single layer adaptive linear ne-
-│                                                     for binary classification, via gradient descent 
-│                                                     algorithm, with standardized features.
+├── Computation_Graphs_and_Gradients.ipynb        <-- Creating a computation graph; Computing gr-
+│                                                     adients
 │
-├── Custom_Layer_and_Models_with_Keras_API.ipynb  <-- Implementation of a single layer adaptive linear ne-
-│                                                     uron for binary classification, via stochastic grad-
-│                                                     ient descent algorithm, with standardized features.      
+├── Custom_Layer_and_Models_with_Keras_API.ipynb  <-- Adding weights; Adding losses; Serializing 
+│                                                     layers; Model class     
 │
-├── Custom Training.ipynb                         <-- Implementation of a single layer logistic regression
-│                                                     for binary classification, via gradient descent alg-
-│                                                     orithm, with standardized features.                      
+├── Custom Training.ipynb                         <-- Defining the model; Defining the loss fun-
+│                                                     ction; Obtaining the training data; Defin-
+│                                                     ing the training loop                     
 │
-└── Dataset API.ipynb                             <-- Implementation of a single layer logistic regression 
-                                                      for multi-class classification, via gradient descent 
+└── Dataset API.ipynb                             <-- Creating a dataset; Iterating through a d-
+                                                      ataset; Combining two tensors into a joint 
+                                                      dataset; Shuffling the dataset, creating 
+                                                      batches and repeating; Fetching available 
+                                                      datasets from the tensorflow_datasets lib-
+                                                      rary
 </pre>
 
