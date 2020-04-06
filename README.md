@@ -20,30 +20,28 @@
 ## Content of the Scripts:
 <pre>
 │
-├── Tensors.ipynb                                 <-- Creating tensors; Accessing the values of a
-│                                                     tensor; Manipulating the data type of a te-
-│                                                     nsor; Manipulating the shape of a tensor; 
-│                                                     Applying mathematical operations to tensors
+├── Tensors.ipynb                                 <-- Creating tensors; Accessing the values of a 
+│                                                     tensor; Manipulating the data type of a tens-
+│                                                     or; Manipulating the shape of a tensor; Appl- 
+│                                                     ying mathematical operations to tensors
 │
-├── Variables.ipynb                               <-- Creating variables; Accessing the values of 
-│                                                     a variable; Modifying the values of a vari-
-│                                                     able
+├── Variables.ipynb                               <-- Creating variables; Accessing the values of a
+│                                                     variable; Modifying the values of a variable
+│                                                     
+├── Computation_Graphs_and_Gradients.ipynb        <-- Creating a computation graph; Computing grad-
+│                                                     ients
 │
-├── Computation_Graphs_and_Gradients.ipynb        <-- Creating a computation graph; Computing gr-
-│                                                     adients
+├── Custom_Layer_and_Models_with_Keras_API.ipynb  <-- Adding weights; Adding losses; Serializing l- 
+│                                                     ayers; Model class     
 │
-├── Custom_Layer_and_Models_with_Keras_API.ipynb  <-- Adding weights; Adding losses; Serializing 
-│                                                     layers; Model class     
+├── Custom Training.ipynb                         <-- Defining the model; Defining the loss functi-
+│                                                     on; Obtaining the training data; Defining the
+│                                                     training loop                     
 │
-├── Custom Training.ipynb                         <-- Defining the model; Defining the loss func-
-│                                                     tion; Obtaining the training data; Defining
-│                                                     the training loop                     
-│
-└── Dataset API.ipynb                             <-- Creating a dataset; Iterating through a da-
-                                                      taset; Combining two tensors into a joint  
-                                                      dataset; Shuffling the dataset, creating b- 
-                                                      atches and repeating; Fetching available d- 
-                                                      atasets from the tensorflow_datasets libra-
-                                                      ry
+└── Dataset API.ipynb                             <-- Creating a dataset; Iterating through a data-
+                                                      set; Combining two tensors into a joint data- 
+                                                      set; Shuffling the dataset, creating batches 
+                                                      and repeating; Fetching available datasets f-
+                                                      rom the tensorflow_datasets library
 </pre>
 
