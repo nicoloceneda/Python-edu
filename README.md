@@ -19,6 +19,7 @@
 
 ## Content of the Scripts:
 <pre>
+Tensorflow
 │
 ├── Tensors.ipynb                                 <-- Creating tensors; Accessing the values of a 
 │                                                     tensor; Manipulating the data type of a tens-
@@ -38,10 +39,13 @@
 │                                                     on; Obtaining the training data; Defining the
 │                                                     training loop                     
 │
-└── Dataset API.ipynb                             <-- Creating a dataset; Iterating through a data-
-                                                      set; Combining two tensors into a joint data- 
-                                                      set; Shuffling the dataset, creating batches 
-                                                      and repeating; Fetching available datasets f-
-                                                      rom the tensorflow_datasets library
+├── Dataset API.ipynb                             <-- Creating a dataset; Iterating through a data-
+│                                                     set; Combining two tensors into a joint data- 
+│                                                     set; Shuffling the dataset, creating batches 
+│                                                     and repeating; Fetching available datasets f-
+│                                                     rom the tensorflow_datasets library
+│
+└── Common_Architectures_with_Keras_API.ipynb     <-- Building a feedforward neural network; Examp-
+                                                      le of a XOR classification problem
 </pre>
 
