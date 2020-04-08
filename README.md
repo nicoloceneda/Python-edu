@@ -5,7 +5,7 @@
 *Website*: [www.nicoloceneda.com](http://www.nicoloceneda.com) \
 *Institution*: University of St Gallen \
 *Course*: Master of Banking and Finance \
-*Last update*: 07 April 2020
+*Last update*: 09 April 2020
 
 <!-- buttons -->
 <p align="left">
@@ -29,20 +29,23 @@ Tensorflow
 ├── Variables.ipynb                               <-- Creating variables; Accessing the values of a
 │                                                     variable; Modifying the values of a variable
 │                                                     
-├── Computation_Graphs_and_Gradients.ipynb        <-- Creating a computation graph; Computing grad-
-│                                                     ients
+├── Computation_Graphs_and_Gradients.ipynb        <-- Creating a computation graph [TensorFlow v1.x,
+│                                                     TensorFlow v2]; Computing gradients
 │
-├── Custom_Layer_and_Models_with_Keras_API.ipynb  <-- Adding weights; Adding losses; Serializing l- 
-│                                                     ayers; Model class     
+├── Dataset_API.ipynb                             <-- Creating a dataset; Iterating through a datas-
+                                                      et; Combining two tensors into a joint dataset; 
+                                                      Shuffling the dataset, creating batches and re-
+                                                      peating; Fetching available datasets from the 
+                                                      tensorflow_datasets library    
 │
-├── Custom Training.ipynb                         <-- Defining the model; Defining the loss functi-
+├── Common_Architectures_with_Keras_API.ipynb                         <-- Defining the model; Defining the loss functi-
 │                                                     on; Obtaining the training data; Defining the
 │                                                     training loop                     
 │
-├── Common_Architectures_with_Keras_API.ipynb     <-- Building a feedforward neural network; Examp-
+├── Custom_Architectures_with_Keras_API.ipynb     <-- Building a feedforward neural network; Examp-
 │                                                     le of a XOR classification problem
 │
-└── Dataset API.ipynb                             <-- Creating a dataset; Iterating through a data-
+└── Custom_Training.ipynb                             <-- Creating a dataset; Iterating through a data-
                                                       set; Combining two tensors into a joint data- 
                                                       set; Shuffling the dataset, creating batches 
                                                       and repeating; Fetching available datasets f-
