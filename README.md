@@ -21,12 +21,12 @@
 <pre>
 Tensorflow
 │
-├── Tensors.ipynb                                 <-- Creating tensors; Accessing the values of a tensor 
-│                                                     tensor; Manipulating the data type of a tensor;
-│                                                     Manipulating the shape of a tensor; Applying 
-│                                                      mathematical operations to tensors
+├── Tensors.ipynb                                 <-- Creating tensors; Accessing the values of a te- 
+│                                                     nsor; Manipulating the data type of a tensor; 
+│                                                     Manipulating the shape of a tensor; Applying m-
+│                                                     athematical operations to tensors
 │
-├── Variables.ipynb                               <-- Creating variables; Accessing the values of a
+├── Variables.ipynb                               <-- Creating variables; Accessing the values of a 
 │                                                     variable; Modifying the values of a variable
 │                                                     
 ├── Computation_Graphs_and_Gradients.ipynb        <-- Creating a computation graph [TensorFlow v1.x,
