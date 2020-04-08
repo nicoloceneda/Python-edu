@@ -22,9 +22,9 @@
 Tensorflow
 │
 ├── Tensors.ipynb                                 <-- Creating tensors; Accessing the values of a 
-│                                                     tensor; Manipulating the data type of a tens-
-│                                                     or; Manipulating the shape of a tensor; Appl- 
-│                                                     ying mathematical operations to tensors
+│                                                     tensor; Manipulating the data type of a tensor;
+│                                                     Manipulating the shape of a tensor; Applying 
+│                                                      mathematical operations to tensors
 │
 ├── Variables.ipynb                               <-- Creating variables; Accessing the values of a
 │                                                     variable; Modifying the values of a variable
@@ -38,14 +38,14 @@ Tensorflow
                                                       peating; Fetching available datasets from the 
                                                       tensorflow_datasets library    
 │
-├── Common_Architectures_with_Keras_API.ipynb                         <-- Defining the model; Defining the loss functi-
+├── Common_Architectures_with_Keras_API.ipynb     <-- Defining the model; Defining the loss functi-
 │                                                     on; Obtaining the training data; Defining the
 │                                                     training loop                     
 │
 ├── Custom_Architectures_with_Keras_API.ipynb     <-- Building a feedforward neural network; Examp-
 │                                                     le of a XOR classification problem
 │
-└── Custom_Training.ipynb                             <-- Creating a dataset; Iterating through a data-
+└── Custom_Training.ipynb                             <-- Creating a dataset; Iterating through a 
                                                       set; Combining two tensors into a joint data- 
                                                       set; Shuffling the dataset, creating batches 
                                                       and repeating; Fetching available datasets f-
