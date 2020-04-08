@@ -21,7 +21,7 @@
 <pre>
 Tensorflow
 │
-├── Tensors.ipynb                                 <-- Creating tensors; Accessing the values of a 
+├── Tensors.ipynb                                 <-- Creating tensors; Accessing the values of a tensor 
 │                                                     tensor; Manipulating the data type of a tensor;
 │                                                     Manipulating the shape of a tensor; Applying 
 │                                                      mathematical operations to tensors
