@@ -28,7 +28,8 @@ NumPy
 │
 └── Array Operations.ipynb                        <-- Manipulating arrays; Aggregation functions; Ot-
                                                       her useful functions; Broadcasting arrays
-
+</pre>
+<pre>
 Tensorflow
 │
 ├── Tensors.ipynb                                 <-- Creating tensors; Accessing the values of a te- 
