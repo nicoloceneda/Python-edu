@@ -23,11 +23,12 @@ NumPy
 │
 ├── Array Creation and Attributes.ipynb           <-- Creating arrays; Array attributes
 │
-├── Array Indexing and Views.ipynb                <-- Indexing single elements; Indexing multiple el-
-│                                                     ements; Views and copies
+├── Array Indexing and Views.ipynb                <-- Indexing single elements; Indexing multi-
+│                                                     ple elements; Views and copies
 │
-└── Array Operations.ipynb                        <-- Manipulating arrays; Aggregation functions; Ot-
-                                                      her useful functions; Broadcasting arrays
+└── Array Operations.ipynb                        <-- Manipulating arrays; Aggregation functio-
+                                                      ns; Other useful functions; Broadcasting 
+                                                      arrays
 </pre>
 <pre>
 Tensorflow
