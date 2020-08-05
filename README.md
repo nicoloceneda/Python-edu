@@ -1,11 +1,11 @@
 # Python education
 
 *Author*: Nicolo Ceneda \
-*Contact*: nicolo.ceneda@student.unisg.ch \
+*Contact*: n.ceneda20@imperial.ac.uk \
 *Website*: [www.nicoloceneda.com](http://www.nicoloceneda.com) \
-*Institution*: University of St Gallen \
-*Course*: Master of Banking and Finance \
-*Last update*: 09 April 2020
+*Institution*: Imperial College London \
+*Course*: PhD in Finance \
+*Last update*: 06 August 2020
 
 <!-- buttons -->
 <p align="left">
@@ -20,6 +20,14 @@
 ## Content of the Scripts:
 <pre>
 NumPy
+│
+├── Array Creation and Attributes.ipynb           <-- Creating arrays; Array attributes
+│
+├── Array Indexing and Views.ipynb                <-- Indexing single elements; Indexing multiple el-
+│                                                     ements; Views and copies
+│
+└── Array Operations.ipynb                        <-- Manipulating arrays; Aggregation functions; Ot-
+                                                      her useful functions; Broadcasting arrays
 
 Tensorflow
 │
