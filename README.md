@@ -19,6 +19,8 @@
 
 ## Content of the Scripts:
 <pre>
+NumPy
+
 Tensorflow
 │
 ├── Tensors.ipynb                                 <-- Creating tensors; Accessing the values of a te- 
