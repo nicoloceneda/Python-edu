@@ -5,7 +5,7 @@
 *Website*: [www.nicoloceneda.com](http://www.nicoloceneda.com) \
 *Institution*: Imperial College London \
 *Course*: PhD in Finance \
-*Last update*: 06 August 2020
+*Last update*: 07 August 2020
 
 <!-- buttons -->
 <p align="left">
@@ -29,6 +29,12 @@ NumPy
 └── Array Operations.ipynb                        <-- Manipulating arrays; Aggregation functio-
                                                       ns; Other useful functions; Broadcasting 
                                                       arrays
+</pre>
+<pre>
+Pandas
+│
+└── Array Operations.ipynb                        <-- Creating Series; Series attributes; Crea-
+                                                      ting dataframes; Dataframe attributes
 </pre>
 <pre>
 Tensorflow
