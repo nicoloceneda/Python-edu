@@ -33,8 +33,8 @@ NumPy
 <pre>
 Pandas
 │
-└── Array Operations.ipynb                        <-- Creating Series; Series attributes; Crea-
-                                                      ting dataframes; Dataframe attributes
+└── Series and DataFrame Creation and             <-- Creating Series; Series attributes; Crea-
+    Attributes.ipynb                                  ting dataframes; Dataframe attributes
 </pre>
 <pre>
 Tensorflow
