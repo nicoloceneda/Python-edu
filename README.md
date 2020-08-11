@@ -23,8 +23,7 @@ NumPy
 │
 ├── Array Creation and Attributes.ipynb           <-- Creating arrays; Array attributes
 │
-├── Array Indexing and Views.ipynb                <-- Indexing single elements; Indexing multi-
-│                                                     ple elements; Views and copies
+├── Array Indexing and Slicing.ipynb              <-- Indexing arrays; Slicing arrays
 │
 └── Array Operations.ipynb                        <-- Manipulating arrays; Aggregation functio-
                                                       ns; Other useful functions; Broadcasting 
