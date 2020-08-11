@@ -23,7 +23,8 @@ NumPy
 │
 ├── Array Creation and Attributes.ipynb           <-- Creating arrays; Array attributes
 │
-├── Array Indexing and Slicing.ipynb              <-- Indexing arrays; Slicing arrays
+├── Array Indexing and Slicing.ipynb              <-- Indexing arrays; Slicing arrays; Views a-
+│                                                     nd copies
 │
 └── Array Operations.ipynb                        <-- Manipulating arrays; Aggregation functio-
                                                       ns; Other useful functions; Broadcasting 
@@ -32,8 +33,12 @@ NumPy
 <pre>
 Pandas
 │
-└── Series and DataFrame Creation and             <-- Creating Series; Series attributes; Crea-
-    Attributes.ipynb                                  ting dataframes; Dataframe attributes
+├── Series Creation and Attributes.ipynb          <-- Creating series; Series attributes
+│
+├── DataFrame Creation and Attributes.ipynb       <-- Creating dataframes; Dataframe attributes
+│
+└── Series Indexing and Slicing.ipynb             <-- Indexing series; Slicing series; Series 
+                                                      indexers; Views and copies
 </pre>
 <pre>
 Tensorflow
