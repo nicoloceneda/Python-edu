@@ -40,8 +40,10 @@ Pandas
 ├── Series Indexing and Slicing.ipynb             <-- Indexing series; Slicing series; Series 
 │                                                     indexers; Views and copies
 │                                                     
-└── DataFrame Indexing and Slicing.ipynb          <-- Indexing dataframes; Slicing dataframes; 
-                                                      Dataframe indexers; Views and copies                                                     
+├── DataFrame Indexing and Slicing.ipynb          <-- Indexing dataframes; Slicing dataframes; 
+│                                                     Dataframe indexers; Views and copies
+│                                             
+└── Pandas - Index Creation and Operations        <-- Creating indexes; Manipulating indexes
                                                  
 </pre>
 <pre>
