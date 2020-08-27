@@ -19,6 +19,19 @@
 
 ## Content of the Scripts:
 <pre>
+IPython
+│
+├── Shell or Notebook.ipynb                       <-- Launching the Ipython Shell; Launching t-
+│                                                     he Jupyter Notebook
+│
+├── Array Indexing and Slicing.ipynb              <-- Indexing arrays; Slicing arrays; Views a-
+│                                                     nd copies
+│
+└── Array Operations.ipynb                        <-- Manipulating arrays; Aggregation functio-
+                                                      ns; Other useful functions; Broadcasting 
+                                                      arrays
+</pre>
+<pre>
 NumPy
 │
 ├── Array Creation and Attributes.ipynb           <-- Creating arrays; Array attributes
