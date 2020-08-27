@@ -24,12 +24,12 @@ IPython
 ├── Shell or Notebook.ipynb                       <-- Launching the Ipython Shell; Launching t-
 │                                                     he Jupyter Notebook
 │
-├── Array Indexing and Slicing.ipynb              <-- Indexing arrays; Slicing arrays; Views a-
-│                                                     nd copies
+├── Help and Documentation.ipynb                  <-- Accessing Documentation; Accessing Source 
+│                                                     Code; Autocompletion
 │
-└── Array Operations.ipynb                        <-- Manipulating arrays; Aggregation functio-
-                                                      ns; Other useful functions; Broadcasting 
-                                                      arrays
+└── Keyboard Shortcuts.ipynb                      <-- Navigation Shortcuts; Text Entry Shortcu-
+                                                      ts; Command History Shortcuts; Miscellan-
+                                                      eous Shortcuts
 </pre>
 <pre>
 NumPy
