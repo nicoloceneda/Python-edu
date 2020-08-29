@@ -27,9 +27,13 @@ IPython
 ├── Help and Documentation.ipynb                  <-- Accessing Documentation; Accessing Source 
 │                                                     Code; Autocompletion
 │
-└── Keyboard Shortcuts.ipynb                      <-- Navigation Shortcuts; Text Entry Shortcu-
-                                                      ts; Command History Shortcuts; Miscellan-
-                                                      eous Shortcuts
+├── Keyboard Shortcuts.ipynb                      <-- Navigation Shortcuts; Text Entry Shortcu-
+│                                                     ts; Command History Shortcuts; Miscellan-
+│                                                     eous Shortcuts
+│                                                     
+└── Magic Commands.ipynb                          <-- Pasting Code Blocks; Running External Co-
+                                                      de; Timing Code Execution; Help on Magic 
+                                                      Function
 </pre>
 <pre>
 NumPy
