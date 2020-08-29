@@ -5,7 +5,7 @@
 *Website*: [www.nicoloceneda.com](http://www.nicoloceneda.com) \
 *Institution*: Imperial College London \
 *Course*: PhD in Finance \
-*Last update*: 28 August 2020
+*Last update*: 29 August 2020
 
 <!-- buttons -->
 <p align="left">
