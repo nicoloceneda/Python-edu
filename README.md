@@ -31,9 +31,21 @@ IPython
 │                                                     ts; Command History Shortcuts; Miscellan-
 │                                                     eous Shortcuts
 │                                                     
-└── Magic Commands.ipynb                          <-- Pasting Code Blocks; Running External Co-
-                                                      de; Timing Code Execution; Help on Magic 
-                                                      Function
+├── Magic Commands.ipynb                          <-- Pasting Code Blocks; Running External Co-
+│                                                     de; Timing Code Execution; Help on Magic 
+│                                                     Function
+│                                                     
+├── Input and Output History.ipynb                <-- In and Out Objects; Underscore Shortcut; 
+│                                                     Suppressing Output; Related Magic Comman-
+│                                                     ds
+│
+├── IPython and Shell Commands.ipynb              <-- Shell Commands In Python; Passing Values
+│                                                     to and from the Shell; Shell Related Mag-
+│                                                     ic Commands
+│
+├── Errors and Debugging.ipynb                    <-- Traceback; Debugging
+│
+└── Timing and Profiling Code.ipynb               <-- Timing Code Snippets; Profiling Code
 </pre>
 <pre>
 NumPy
