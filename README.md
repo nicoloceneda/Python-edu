@@ -2,7 +2,7 @@
 
 *Author*: Nicolo Ceneda \
 *Contact*: n.ceneda20@imperial.ac.uk \
-*Website*: [www.nicoloceneda.com](http://www.nicoloceneda.com) \
+*Website*: [nicoloceneda.github.io](https://nicoloceneda.github.io/) \
 *Institution*: Imperial College London \
 *Course*: PhD in Finance \
 *Last update*: 10 September 2020
